@@ -1,0 +1,9 @@
+.images {
+    display: flex;
+}
+
+.wrapper {
+    width: 800px;
+    margin: auto;
+    boder-radius: 5px;
+}
